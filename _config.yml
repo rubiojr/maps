@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Maps
+tagline:          'GPS and GIS'
+description:      'My Public Maps'
+url:              http://rubiojr.github.io/maps
+
+author:
+  name:           'Sergio Rubio'
+  url:            https://twitter.com/rubiojr
+
+paginate:         5
+
+# Custom vars
+#version:          2.0.0
+
+github:
+  repo:           https://github.com/rubiojr/maps
